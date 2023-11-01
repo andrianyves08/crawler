@@ -1,0 +1,1 @@
+<div class="chain-link"><?php echo $chain_link; ?></div>
